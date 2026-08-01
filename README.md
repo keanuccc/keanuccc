@@ -10,7 +10,6 @@ I'm a student majoring in **Data Science and Big Data Technology** at Guangdong 
 
 The ones I'm most proud of.
 
-📰 [**sour-scan**](https://github.com/keanuccc/sour-scan) — Sour Scan — 多源 AI 资讯聚合与分析工具
 
 🛠️ [**skill-manager**](https://github.com/keanuccc/skill-manager) — 专门用来管理 Claude Code 技能的技能管理器
 
