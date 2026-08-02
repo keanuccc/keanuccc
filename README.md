@@ -20,7 +20,7 @@ I'm a student majoring in **Data Science and Big Data Technology** at Guangdong 
 
 🗣️ [**youtobe-learner**](https://github.com/keanuccc/youtobe-learner) — YouTube 视频转中英双语学习 PDF（英文原句 + 笔记留白 + 中文翻译），适合英语学习积累词汇；公开的自托管版本，使用自己的 API Key，安全不存 Key。
 
-📊 [**BenchmarkOps**](https://github.com/keanuccc/BenchmarkOps) — 企业级 AI 评测与基准运维平台：FastAPI + Next.js 前后端，覆盖 AI 模型评测与基准管理。
+📊 [**BenchmarkOps**](https://github.com/keanuccc/BenchmarkOps) — AI 评测与基准运维平台：FastAPI + Next.js 前后端，覆盖 AI 模型评测与基准管理。
 
 ### 🌐 Web 应用
 
