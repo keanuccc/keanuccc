@@ -11,7 +11,6 @@ I'm a student majoring in **Data Science and Big Data Technology** at Guangdong 
 ### 🤖 AI 工具
 
 🛠️ [**skill-manager**](https://github.com/keanuccc/skill-manager) — Claude Code 技能管理器：可视化界面一键启用/禁用技能、分类拖拽管理、配置方案快速切换、项目技能一键部署。
-🔗 演示：[skill-manager-chi.vercel.app](https://skill-manager-chi.vercel.app)
 
 🤖 [**auto-dify**](https://github.com/keanuccc/auto-dify) — 自动化 Dify Workflow 搭建系统：输入自然语言目标，AI 自动生成节点架构图，编辑后导出 DSL 文件直接导入 Dify。
 
